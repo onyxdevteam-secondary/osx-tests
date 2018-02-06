@@ -1,0 +1,3 @@
+language: swift
+os: osx
+script: curl https://www.whoismyisp.org/
