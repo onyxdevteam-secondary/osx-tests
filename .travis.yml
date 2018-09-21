@@ -1,6 +1,5 @@
 language: swift
 os: osx
-osx_image: xcode6.4
 jobs:
   include:
     - stage: sheep
